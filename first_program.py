@@ -322,13 +322,13 @@
 # a = int(input())
 # print(a % 2)
 
-a1, b1, a2, b2 = int(input()), int(input()), int(input()), int(input())
-if a1 < b1 and a2 < b2:
-    if b1 < a2:
-        print("пустое множество")
-elif b1 == a2:
-    print(a2)
-elif b1 > a2:
-    print(a2, b1)
-elif a1 > a2:
-    print(a1, b1)
+# a1, b1, a2, b2 = int(input()), int(input()), int(input()), int(input())
+# if a1 < b1 and a2 < b2:
+#     if b1 < a2:
+#         print("пустое множество")
+# elif b1 == a2:
+#     print(a2)
+# elif b1 > a2:
+#     print(a2, b1)
+# elif a1 > a2:
+#     print(a1, b1)
