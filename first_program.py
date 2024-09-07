@@ -1,8 +1,8 @@
-print('Hello world')
+# print('Hello world')
 
-# print("Как тебя зовут?")
-# name = input()
-# print("Привет,", name)
+print("Как тебя зовут?")
+name = input()
+print("Привет,", name)
 
 # name = input("Как тебя зовут?")
 # print("Привет,", name)
